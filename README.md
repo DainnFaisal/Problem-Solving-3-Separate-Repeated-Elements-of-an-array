@@ -1,0 +1,1 @@
+-- This is a problem solving task of separating repeating elements of an array
